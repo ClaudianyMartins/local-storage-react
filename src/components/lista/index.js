@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Home from "../home/index";
 
 export default class Lista extends Component {
   render() {
